@@ -43,7 +43,7 @@ Finish these within next one week to ensure that the you are onboarded properly:
   - [ ] Write proposal on how to fix the issue and prepared to talk about with the Manager of People
   - [ ] Email the proposal to rhtran@ucdavis.edu (Becca Tran)
     - [ ] Set the 1:1 with Becca 
-- [ ] Sign up for Slack, Zoom, Airtable, and Asana (refer to the second email we sent)
+- [ ] Sign up for Slack, Zoom, and Airtable (refer to the second email we sent)
 - [ ] Have access to Bit Project Google Calendar 
 
 ### Day 6-7 
