@@ -10,8 +10,8 @@ Contributor Name:
 
 - [ ] Create Zoom 
 - [ ] Set-up Google Calendar Invite
-  - [ ] Invite applicant(s), Daniel, Manager, and Mentee
-- [ ] Inform Daniel, Manager, and Mentee
+  - [ ] Invite applicant(s), Daniel, Manager, and Mentor
+- [ ] Inform Daniel, Manager, and Mentor
 
 
 
