@@ -2,8 +2,22 @@
 Lead Name:  
 Contributor Name:  
 
-## Reviewer Tasks:
-Cover topics within next two weeks to ensure that the contributor is onboarded properly:
+
+
+## Pre-Interview Tasks: 
+
+- [ ] Contact Applicant(s) through Email 
+
+- [ ] Create Zoom 
+- [ ] Set-up Google Calendar Invite
+  - [ ] Invite applicant(s), Daniel, Manager, and Mentee
+- [ ] Inform Daniel, Manager, and Mentee
+
+
+
+## Manager Tasks:
+
+Cover topics within next two weeks to ensure that the contributor is onboarded properly: 
 
 ### Day 1:
 - [ ] Confirm all applicants are in team Slack
@@ -38,6 +52,8 @@ Cover topics within next two weeks to ensure that the contributor is onboarded p
   * Team introduction
   * Go over the task and how it could be improved
   * Receive feedback on first lab process
+
+
 
 ## Contributor Tasks:
 
