@@ -1,7 +1,7 @@
 # DevRel Curriculum Contributor Onboarding Checklist
-Onabording Lead Name:
-Manager Name:  
-Contributor Name:  
+* Onabording Lead Name:
+* Manager Name:  
+* Contributor Name:  
 
 
 
