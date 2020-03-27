@@ -1,10 +1,11 @@
 # DevRel Curriculum Contributor Onboarding Checklist
-Lead Name:  
+Onabording Lead Name:
+Manager Name:  
 Contributor Name:  
 
 
 
-## Pre-Interview Tasks: 
+## Onboarding Lead Tasks: 
 
 - [ ] Contact Applicant(s) through Email 
 
