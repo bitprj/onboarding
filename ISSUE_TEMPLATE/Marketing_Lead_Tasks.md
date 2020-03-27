@@ -4,7 +4,7 @@ Lead Name:
 
 Contributor's Name: 
 
-## Onboarder Tasks
+## Onboarder's Tasks
 
 Finish these within next one week to ensure that the new member is onboarded properly:
 
