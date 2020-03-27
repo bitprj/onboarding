@@ -7,13 +7,11 @@
 
 ## Onboarding Lead Tasks: 
 
-- [ ] Contact Applicant(s) through Email 
-
-- [ ] Create Zoom 
+- [ ] Contact Applicant(s) through Email
+- [ ] Create Zoom
 - [ ] Set-up Google Calendar Invite
   - [ ] Invite applicant(s), Daniel, Manager, and Mentor
 - [ ] Inform Daniel, Manager, and Mentor
-
 
 
 ## Manager Tasks:
