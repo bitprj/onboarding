@@ -34,7 +34,7 @@ Finish these within next one week to ensure that the you are onboarded properly:
   - [ ] Understand what People team does
 - [ ] Watch Webinars 
   - [ ] Communication
-  - [ ] Teamwork
+  - [ ] Team Feedback
   - [ ] GitHub
 
 ### Day 3-5:
