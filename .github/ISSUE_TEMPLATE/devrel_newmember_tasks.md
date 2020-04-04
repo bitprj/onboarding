@@ -1,7 +1,7 @@
 ---
 name: DevRel_NewMember_Tasks
-about: Describe this issue template's purpose here.
-title: Dev Rel New Member Onboarding Tasks
+about: Onboarding Tasks for DevRel
+title: "[Replace with New Member's Name]"
 labels: newmember_onboarding
 assignees: ''
 
