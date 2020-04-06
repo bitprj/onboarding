@@ -91,14 +91,15 @@ Finish these within next one week to ensure that the you are onboarded properly:
 
 ### Day 3-5:
 
+- [ ] Sign up for Slack, Zoom, and  Airtable (refer to the second email we sent)
+- [ ] Have access to Bit Project Google Calendar 
 - [ ] Finish the Hubspot tasks 
+  - [ ] Complete Hubspot tutorial on Gitbooks
   - [ ] Create an account 
   - [ ] Import the 10 fake emails 
   - [ ] Email Blast the 10 fake emails
   - [ ] Delete the given emails from Hubspot 
-- [ ] Sign up for Slack, Zoom, and  Airtable (refer to the second email we sent)
-- [ ] Have access to Bit Project Google Calendar 
-- [ ] Set up a final meeting with the Manager of Marketing
+- [ ] Set up a final meeting with the Manager of Marketing through Calendly
 
 ### Day 6-7 
 
