@@ -16,12 +16,10 @@ assignees: ''
 
 ## Onboarding Lead Tasks: 
 
+- [ ] Tailor Email 
 - [ ] Contact Applicant(s) through Email
 - [ ] Create Zoom
 - [ ] Set-up Google Calendar Invite
-  - [ ] Invite applicant(s), Daniel, Manager, and Mentor
-- [ ] Inform Daniel, Manager, and Mentor
-
 
 ## Manager Tasks:
 
@@ -35,30 +33,26 @@ Cover topics within next two weeks to ensure that the contributor is onboarded p
     * Team name
     * Position
     * How contributor can contact you (Slack, email, Calendly)
-    * Who the contributor's mentor is
-- [ ] Set up team meeting to discuss the following:
+- [ ] Set up duo meeting to discuss the following:
   * Breakdown of the Week (expectations)
   * Onboarding Presentation
     * Bit Project Introduction
     * Introduction to the team
-      * How contributor's tasks fit into the bigger picture
-    * GitHub/GitDesktop set-up
-    * Activities/Labs intro
-  * Slack set-up
-  * Assign **First-Timer Task** based on team
+    * How contributor's tasks fit into the bigger picture
+    * Determine / Confirm Workshop Topic
 
 ### Day 2-5:
-- [ ] Review tasks & note feedback
-  * Communicate any major issues in tasks directly through Slack
+- [ ] Review Workshop & note feedback
+  * Communicate any major issues in workshop directly through Slack
 
 ### Day 6:
 - [ ] Confirm Calendly Meeting
-  * chedule it by Day 14)
+  * Schedule it by Day 14)
 
 ### Day 7-14:
-- [ ] One-on-one:
+- [ ] Duo Meeting:
   * Team introduction
-  * Go over the task and how it could be improved
+  * Go over the workshop and begin brainstorm
   * Receive feedback on first lab process
 
 
