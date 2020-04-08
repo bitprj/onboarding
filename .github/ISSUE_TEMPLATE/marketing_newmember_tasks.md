@@ -9,8 +9,8 @@ assignees: ''
 
 # Marketing Onboarding Tasks 
 
-### Lead Name:
-### Member Name:
+### Lead Name: @[username]
+### Member Name: @[username]
 
 ## Lead's Tasks
 
@@ -21,88 +21,83 @@ Finish these within next one week to ensure that the new member is onboarded pro
 ### Day 0:
 
 - [ ] First email are about welcome to the club and information on Daniel's welcome webinar that is held weekly is sent out (Minh-Tu)
-
-- [ ]  Daniel's Welcome Webinar (Only Daniel checks this)
+- [ ] Welcome Webinar (Only President checks this)
 
 **The rest are the manager's responsibilities**
 
-- [ ] Check if they were able to join Slack through Daniel's Invite 
+- [ ] Check if they were able to join Slack
   - [ ] Emoji react to their introduction post and give a warm welcome
-- [ ] Manager confirms the schedule 1:1 with the new member 
 
-### Day 2:
+### Day 1-2:
 
-- [ ] Manager meets with the new members 
-  - [ ] Discuss what the Marketing team does and what the new member's role might be
-  - [ ] Talk about the Handbook 
-  - [ ] Talk about the onboarding process, show them where they can access it 
-  - [ ] Tell them a brief overview of their Hubspot Task
-  - [ ] Tell them where they can access the Webinars 
-- [ ] After first meeting, the second email that details everything should be sent after the 1:1 (invitation to Github and Airtable, Webinar links, Handbook, and Workflow Case Issue)
-- [ ] Make sure they complete the google form on the webinars 
+- [ ] Send template message with important resources (GitHub, Webinars, 
 
-### Day 3-5: 
+### Day 3: 
 
 - [ ] Be there to answer questions for them
 - [ ] Check-in with them on their progress on the Webinars and Hubspot Tasks 
-  - [ ] Make sure they completed it
 
-### Day 6-7: 
+### Day 4-5: 
 
-- [ ] Managers have a the follow-up 1:1 
+- [ ] Manager meets with the new members 
+  - [ ] Make sure they know how to write meeting notes in GitHub
+  - [ ] Discuss what the Marketing team does and what the new member's role might be
+  - [ ] Talk about the Handbook 
+  - [ ] Talk about the onboarding process, show them where they can access it 
   - [ ] Discuss the Hubspot Tasks 
-  - [ ] Note the feeback that the new member gives 
+  - [ ] Note the feedback that the new member gives 
   - [ ] Tell them the next steps and their next project!
   - [ ] Congratulate them on becoming a part of Bit! 
 
 ## Member's Tasks
 
-Finish these within next one week to ensure that the you are onboarded properly:
+_Finish these within next one week to ensure that the you are onboarded properly:_
 
-**You do not need to complete these following in the date listed, but you do need to finish it within a week once they have a Zoom call with Daniel**
+### Check out the following links that you might need access to this week:
+- [ ] [GitHub](github.com/bitprj/marketing)
+  - Our L&D team is completing the webinar and will share it with you within the next day or so
+- [ ] [Airtable](airtable.com)
+  - Where we store all of our data in spreadsheets - you’ll need this for your second issue mentioned in the onboarding checklist
+- [ ] [Handbook](about.bitproject.org)
+  - Documentation on everything we do
 
 ### Day 0:
 
-- [ ] Receive email about a meeting with Daniel through Zoom 
-- [ ] Have the welcome meeting with Daniel through Zoom 
+- [ ] Receive welcome email from Onboarding Team 
 - [ ] Join our Slack
   - [ ] Include in Profile
     - Name
     - Profile Picture 
-    - In the description list out: School and team (People)
-  - [ ] Send a greeting message through the #NewMembers Channel 
+    - In the description list out: School and team (Marketing)
+  - [ ] Send a greeting message through the #welcome Channel 
     - Name 
-    - Postion
+    - Position
     - Major 
     - Year
-    - Favorite Memory 
-  - [ ] Private DM Becca Tran (Manager of People) to set up a meeting 
+    - Spirit Animal
+- [ ] DM your Manager on Slack and let them know that you received your onboarding checklist
+- [ ] Locate your Manager's Calendly on their Slack profile and set up a 1:1 meeting for the 4th or 5th day or onboarding
 
 ### Day 1-2:
 
-- [ ] Meeting with the Manager of Marketing 
+- [ ] Sign up for Slack, Zoom, and Airtable (refer to the second email we sent)
+- [ ] Have access to Bit Project Google Calendar 
+- [ ] Watch Webinars 
+  - [ ] [Communication in a Remote Workspace](https://www.youtube.com/watch?v=2f9TkttynIk)
+  - [ ] Complete the [Communication Webinar Quiz](https://airtable.com/shr31V9xdVRxOffMA)
+  - [ ] Feedback
+  - [ ] GitHub
+
+### Day 3:
+- [ ] Complete your Hubspot Beginner Task issue
+
+### Day 4-5:
+
+- [ ] Complete 1:1 with Manager of Marketing 
   - [ ] Understand the overview of the onboarding procedure 
   - [ ] Breakdown of tasks and expectations for the first week 
   - [ ] Understand what Marketing team does
-- [ ] Watch Webinars 
-  - [ ] Communication
-  - [ ] Teamwork
-  - [ ] GitHub
-
-### Day 3-5:
-
-- [ ] Sign up for Slack, Zoom, and  Airtable (refer to the second email we sent)
-- [ ] Have access to Bit Project Google Calendar 
-- [ ] Finish the Hubspot tasks 
-  - [ ] Complete Hubspot tutorial on Gitbooks
-  - [ ] Create an account 
-  - [ ] Import the 10 fake emails 
-  - [ ] Email Blast the 10 fake emails
-  - [ ] Delete the given emails from Hubspot 
-- [ ] Set up a final meeting with the Manager of Marketing through Calendly
-
-### Day 6-7 
-
-- [ ] Complete 1:1 with Manager of Marketing  
-  - [ ] Practice taking notes on Github during the interview 
+  - [ ] Practice taking notes on Github during the 1:1 
   - [ ] Please give your overview feedback and express what position you are interested within the Marketing team!
+
+- [ ] Attend Welcome Webinar (within you first week on onboarding)
