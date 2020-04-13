@@ -80,7 +80,7 @@ _Finish these within next one week to ensure that the you are onboarded properly
 
 ### Day 1-2:
 
-- [ ] Sign up for Slack, Zoom, and Airtable (refer to the second email we sent)
+- [ ] Sign up for Slack, Zoom, and [Airtable](https://airtable.com/tblRN2fngeYXUlGGp)
 - [ ] Have access to Bit Project Google Calendar 
 - [ ] Watch Webinars 
   - [ ] [Communication in a Remote Workspace](https://www.youtube.com/watch?v=2f9TkttynIk)
