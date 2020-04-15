@@ -7,7 +7,7 @@ assignees: vkxu657
 
 ---
 
-# Marketing Onboarding Tasks 
+# Technical Writer Onboarding Tasks 
 
 ### Lead Name: @[username]
 ### Member Name: @[username]
@@ -41,7 +41,7 @@ Finish these within next one week to ensure that the new member is onboarded pro
 
 - [ ] Manager meets with the new members 
   - [ ] Make sure they know how to write meeting notes in GitHub
-  - [ ] Discuss what the Marketing team does and what the new member's role might be
+  - [ ] Discuss what the People team does and what the new member's role might be
   - [ ] Talk about the Handbook 
   - [ ] Talk about the onboarding process, show them where they can access it 
   - [ ] Discuss the Writing Tasks 
@@ -76,7 +76,7 @@ _Finish these within next one week to ensure that the you are onboarded properly
     - Year
     - Spirit Animal
 - [ ] DM your Manager on Slack and let them know that you received your onboarding checklist
-- [ ] Locate your Manager's Calendly on their Slack profile and set up a 1:1 meeting for the 4th or 5th day or onboarding
+- [ ] Locate your Manager's Calendly on their Slack profile and set up a 1:1 meeting for the 3rd or 4th day or onboarding
 
 ### Day 1-2:
 
