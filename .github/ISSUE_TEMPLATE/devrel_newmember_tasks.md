@@ -32,7 +32,12 @@ assignees: ''
 
 ### Day 1:
 - [ ] Send Greeting into NewDevs
-- [ ] Form duo team & inform manager
+      - Greeting Format:
+      - Insert Introduction
+      - Based from: insert city
+      - Topics of interest: insert topics here
+- [ ] Form duo team & inform ONBOARDING LEAD (Minh-Tu Nguyen)
+      - Do this by tagging her in the thread of your intro with your name and your partner's name. 
 - [ ] Schedule Team Meeting with Manager. The meeting must be within the next 2 days.
 
 ### Day 2-3: 
