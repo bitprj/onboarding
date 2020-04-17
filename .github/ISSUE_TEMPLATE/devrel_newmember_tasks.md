@@ -23,8 +23,14 @@ assignees: ''
 ## Contributor Tasks:
 
 ### Day 0:
-- [ ] Watch Getting Started
-- [ ] Watch Webinars
+- [ ] Watch [Getting Started at Bit Project](https://youtu.be/-jj090TR3po)
+- [ ] Ask for access to Bit Project Google Calendar 
+- [ ] Watch Webinars 
+  - [ ] [Communication in a Remote Workspace](https://www.youtube.com/watch?v=2f9TkttynIk)
+  - [ ] [Feedback](https://youtu.be/UlvYinqLsdo)
+  - [ ] [GitHub](https://youtu.be/NNrP1QCF1JE)
+  - [ ] [Diversity and Inclusion](https://youtu.be/dIvSjM-1Phw)
+  - [ ] Complete the [Webinar Quiz](https://airtable.com/shr31V9xdVRxOffMA)
 - [ ] Join Slack
 - [ ] Create GitHub account
 - [ ] Complete Welcome webinar (link will be provided)

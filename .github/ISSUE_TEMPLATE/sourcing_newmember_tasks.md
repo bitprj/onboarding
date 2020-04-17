@@ -1,8 +1,8 @@
 ---
-name: Marketing_NewMember_Tasks
-about: Onboarding Tasks for Marketing
-title: "[Replace with New Member's Name]"
-labels: newmember_onboarding
+name: Sourcing_NewMember_Tasks
+about: Describe this issue template's purpose here.
+title: ''
+labels: ''
 assignees: ''
 
 ---
@@ -47,7 +47,7 @@ Finish these within next one week to ensure that the new member is onboarded pro
   - [ ] Discuss the Hubspot Tasks 
   - [ ] Note the feedback that the new member gives 
   - [ ] Tell them the next steps and their next project!
-  - [ ] Congratulate them on becoming a part of Bit!
+  - [ ] Congratulate them on becoming a part of Bit! 
 
 ## Member's Tasks
 
@@ -63,11 +63,11 @@ _Finish these within next one week to ensure that the you are onboarded properly
 
 ### Day 0:
 
+- [ ] Receive welcome email from Onboarding Team 
 - [ ] Join our Slack
   - [ ] Include in Profile
     - Name
-    - Profile Picture
-    - GitHub Username
+    - Profile Picture 
     - In the description list out: School and team (Marketing)
   - [ ] Send a greeting message through the #welcome Channel 
     - Name 
@@ -81,13 +81,12 @@ _Finish these within next one week to ensure that the you are onboarded properly
 ### Day 1-2:
 
 - [ ] Sign up for Slack, Zoom, and [Airtable](https://airtable.com/tblRN2fngeYXUlGGp)
-- [ ] Ask for access to Bit Project Google Calendar 
+- [ ] Have access to Bit Project Google Calendar 
 - [ ] Watch Webinars 
   - [ ] [Communication in a Remote Workspace](https://www.youtube.com/watch?v=2f9TkttynIk)
-  - [ ] [Feedback](https://youtu.be/UlvYinqLsdo)
-  - [ ] [GitHub](https://youtu.be/NNrP1QCF1JE)
-  - [ ] [Diversity and Inclusion](https://youtu.be/dIvSjM-1Phw)
-  - [ ] Complete the [Webinar Quiz](https://airtable.com/shr31V9xdVRxOffMA)
+  - [ ] Complete the [Communication Webinar Quiz](https://airtable.com/shr31V9xdVRxOffMA)
+  - [ ] Feedback
+  - [ ] GitHub
 
 ### Day 3:
 - [ ] Complete your Hubspot Beginner Task issue

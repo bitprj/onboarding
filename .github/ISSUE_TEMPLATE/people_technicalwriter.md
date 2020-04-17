@@ -9,8 +9,8 @@ assignees: vkxu657
 
 # Technical Writer Onboarding Tasks 
 
-### Lead Name: @[username]
-### Member Name: @[username]
+#### Lead Name: @[username]
+#### Member Name: @[username]
 
 ## Lead's Tasks
 
@@ -84,9 +84,9 @@ _Finish these within next one week to ensure that the you are onboarded properly
 - [ ] Have access to Bit Project Google Calendar 
 - [ ] Watch Webinars 
   - [ ] [Communication in a Remote Workspace](https://www.youtube.com/watch?v=2f9TkttynIk)
-  - [ ] Complete the [Communication Webinar Quiz](https://airtable.com/shr31V9xdVRxOffMA)
   - [ ] Feedback
   - [ ] GitHub
+  - [ ] Complete the [Webinar Quiz](https://airtable.com/shr31V9xdVRxOffMA)
 
 ### Day 3-4:
 
