@@ -100,5 +100,6 @@ _Finish these within next one week to ensure that the you are onboarded properly
   - [ ] Understand what Marketing team does
   - [ ] Practice taking notes on Github during the 1:1 
   - [ ] Please give your overview feedback and express what position you are interested within the Marketing team!
+  - [ ] Give onboarding feedback
 
 - [ ] Attend Welcome Webinar (within you first week on onboarding)
