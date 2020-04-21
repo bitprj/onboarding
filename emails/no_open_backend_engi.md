@@ -10,7 +10,7 @@ Here is the link to current open positions:
 
 https://www.bitproject.org/join#open-positions
 
-I thank you once again for time and interest.
+Thank you once again for your time and interest.
 
 Best,
 
