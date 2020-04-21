@@ -6,40 +6,42 @@ Welcome to Bit Project! Thank you for your application and interest in Bit Proje
 
 The rest of the email consists of your beginning tasks to get you started!
 
-1. Meeting with the Director
+1. **Schedule Your Interview First**
 
-2. - Director: Bryan Wong
+   - Interviewer: Bryan Wong
+
    - Use his calendly to schedule a meeting: https://calendly.com/bmwong
 
-3. Watch our Getting Started Webinar
+2. Watch our Getting Started Webinar
 
-4. - Link: https://youtu.be/-jj090TR3po
+   - Link: https://youtu.be/-jj090TR3po
 
-5. Download Zoom:
+3. Download Zoom:
 
-6. - Zoom Website: https://zoom.us/
+4. - Zoom Website: https://zoom.us/
    - Zoom Download: https://zoom.us/download
 
-7. Read Designated Pages
+5. Read Designated Pages
 
-8. - Bit Project HandBook: [about.bitproject.org](http://about.bitproject.org/)
+   - Bit Project HandBook: [about.bitproject.org](http://about.bitproject.org/)
 
    - DEVELOPERS TEAM:
 
    - - Navigate to the Developer Relations section and read through the Future Workshop Plan page
 
-9. Create a GitHub account:
+6. Create a GitHub account:
 
-10. - [github.com](http://github.com/)
+   - github.com(http://github.com/)
 
-11. Complete the Form to be added to our Directory: 
+7. Complete the Form to be added to our Directory: 
 
-12. - Form: https://airtable.com/shrFZKfAcYcnunw20
+   - Form: https://airtable.com/shrFZKfAcYcnunw20
 
-13. Attend the Welcome Webinar 
+8. Attend the Welcome Webinar 
 
-14. - 11 AM on MONDAYS
-    - Zoom Link: https://zoom.us/j/4639175564
+   - 11 AM on MONDAYS
+
+   - Zoom Link: https://zoom.us/j/4639175564
 
 Please follow all steps. During the meeting with the director, Bryan will provide you with your next task(s) and invite you to our Slack. Once again, I am here to help you throughout your whole onboarding process so do not hesitate to ask any questions! Contact me at [onborading email] or on slack. 
 
