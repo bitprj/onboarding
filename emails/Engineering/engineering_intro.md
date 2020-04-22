@@ -6,7 +6,7 @@ Welcome to Bit Project! Thank you for your application and interest in Bit Proje
 
 The rest of the email consists of your beginning tasks to get you started!
 
-1. **Schedule your interview**
+1. **Schedule your interview FIRST**
 
   - Interviewer: 
 
