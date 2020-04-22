@@ -6,12 +6,11 @@ Welcome to Bit Project! Thank you for your application and interest in Bit Proje
 
 The rest of the email consists of your beginning tasks to get you started!
 
-1. **Schedule your interview**
-
-   - Interviewer: 
-
-   - Use this calendly to schedule a meeting: 
-
+1. **Schedule your interview FIRST**
+- Interviewer: 
+   
+- Use this calendly to schedule a meeting: 
+   
 2. Create a GitHub account:
 
    - [github.com](http://github.com/)
