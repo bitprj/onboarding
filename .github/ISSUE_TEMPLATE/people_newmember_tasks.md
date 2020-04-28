@@ -11,7 +11,7 @@ assignees: ''
 
 ### Lead Name:
 ### Member Name:
-
+## Manager Name:
 Finish these within next one week to ensure that the new member is onboarded properly:
 
 **You do not need to complete these following in the date listed, but you need to check on the new member and be prepared to answer their questions** 
@@ -21,7 +21,7 @@ Finish these within next one week to ensure that the new member is onboarded pro
 ### Day 0:
 
 - [ ] First email are about welcome to the club and information on Daniel's welcome webinar that is held weekly is sent out (Minh-Tu)
-- [ ] Daniel's Welcome Webinar (Only Daniel checks this)
+- [ ] Daniel's Welcome Webinar 
 - [ ] Check if they were able to join Slack through Daniel's Invite 
 
   **The rest of the tasks are the manager's responsibilities**  
@@ -94,6 +94,6 @@ Finish these within next one week to ensure that the new member is onboarded pro
 
 ### Day 6-7 
 
-- [ ] Complete 1:1 with Manager of People 
+- [ ] Complete 1:1 with Manager 
   - [ ] Practice taking notes on Github during the interview 
   - [ ] Please give your overview feedback and express what position you are interested within the People team!
