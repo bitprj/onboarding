@@ -41,7 +41,7 @@ Finish these within next one week to ensure that the new member is onboarded pro
 - [ ] Go over this checklist with them and make sure they know how to locate this issue and check the boxes off. Briefly walk through any applications that do not know well. **But always walk them through GitHub**
 
 
- ## Manager's Tasks**  
+ ## Manager's Tasks
 
 ### Day 1: 
 - [ ] Emoji react to their introduction post and give a warm welcome
