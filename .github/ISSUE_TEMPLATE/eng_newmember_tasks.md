@@ -37,14 +37,12 @@ assignees: ''
 *Note that this will be hosted everyone Monday. Please move on to the next steps if this does not occur on the first day of receiving tasks.
 
 ### Day 1:
-- [ ] Send Greeting into NewDevs
+- [ ] Send Greeting into engineering-dept
       - Greeting Format:
       - Insert Introduction
       - Based from: insert city
       - Topics of interest: insert topics here
-- [ ] Attend Dev Rel Welcome Webinar
-- [ ] Form duo team & inform ONBOARDING LEAD (Minh-Tu Nguyen)
-      - Do this by tagging her in the thread of your intro with your name and your partner's name. 
+- [ ] Attend Engineering Welcome Webinar
 - [ ] Schedule Team Meeting with Manager. The meeting must be within the next 2 days.
 
 ### Day 2-3: 
