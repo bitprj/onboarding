@@ -11,18 +11,12 @@ assignees: ''
 
 ### Onboarding Lead Name:
 ### Manager Name:  
-### Contributor Name:  
+### Content Developer Name:  
 
-## Onboarding Lead Tasks: 
 
-- [ ] Tailor Email 
-- [ ] Contact Applicant(s) through Email
-- [ ] Create Zoom
-- [ ] Set-up Google Calendar Invite
+## Content Developer Tasks:
 
-## Contributor Tasks:
-
-### Day 0:
+### Week 0:
 - [ ] Watch [Getting Started at Bit Project](https://youtu.be/-jj090TR3po)
 - [ ] Ask for access to Bit Project Google Calendar 
 - [ ] Watch Webinars 
@@ -31,24 +25,15 @@ assignees: ''
   - [ ] [GitHub](https://youtu.be/NNrP1QCF1JE)
   - [ ] [Diversity and Inclusion](https://youtu.be/dIvSjM-1Phw)
   - [ ] Complete the [Webinar Quiz](https://airtable.com/shr31V9xdVRxOffMA)
-- [ ] Join Slack
-- [ ] Create GitHub account
-- [ ] Complete Welcome webinar (link will be provided)
-*Note that this will be hosted everyone Monday. Please move on to the next steps if this does not occur on the first day of receiving tasks.
+- [ ] Join our [Slack workspace](https://join.slack.com/t/bitdarlene/shared_invite/zt-9t88xlbb-DHBCQWOUZfu87P376dEEgQ)
+- [ ] Complete Welcome Webinar (link will be provided)
+*Note that this will be hosted everyone Monday at 11 am Pacific Standard Time. Please move on to the next steps if this does not occur on the first day of receiving tasks.
+- [ ] Attend Dev Rel Welcome Webinar with Kevin or watch the recording of the Webinar
+*Note this will usually be held right after the general Welcome Webinar
+- [ ] Form duo team in the #form-duos Slack channel and pick a topic you are both interested in working on together. Make your duo official [here](https://airtable.com/shruXimvJ7sjubAId)
+*List of Topics: https://airtable.com/shr12uFGnpHyIM6bU/tbl0uNxZ0NmaB3OmH?blocks=hide 
 
-### Day 1:
-- [ ] Send Greeting into NewDevs
-      - Greeting Format:
-      - Insert Introduction
-      - Based from: insert city
-      - Topics of interest: insert topics here
-- [ ] Attend Dev Rel Welcome Webinar
-- [ ] Form duo team & inform ONBOARDING LEAD (Minh-Tu Nguyen)
-      - Do this by tagging her in the thread of your intro with your name and your partner's name. 
-- [ ] Schedule Team Meeting with Manager. The meeting must be within the next 2 days.
-
-### Day 2-3: 
-- [ ] Meeting with Manager:
+- [ ] Meeting with Manager(after submitting the duo form above, your manager should contact you):
    * Breakdown of the Week (expectations)
   * Bit Project Introduction
   * Introduction to the team
