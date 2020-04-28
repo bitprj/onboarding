@@ -37,7 +37,7 @@ assignees: ''
 *Note that this will be hosted everyone Monday. Please move on to the next steps if this does not occur on the first day of receiving tasks.
 
 ### Day 1:
-- [ ] Send Greeting into NewDevs
+- [ ] Send Greeting into engineering-dept
       - Greeting Format:
       - Insert Introduction
       - Based from: insert city
