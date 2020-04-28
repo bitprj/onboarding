@@ -24,6 +24,9 @@ Finish these within next one week to ensure that the new member is onboarded pro
   - [ ] Your partnered Techincal Sourcer's Calendly for the interview
   - [ ] [Handbook Link](https://about.bitproject.org/) 
   - [ ] Onboarding/Orientation information 
+### Day 1-7: 
+- [ ] Answer any questions the new members might have
+- [ ] Check in with the new member every other day to make sure they are completing their task on time 
  
  ## Techincal Sourcer's Tasks
 - [ ] Interview the new applicant
