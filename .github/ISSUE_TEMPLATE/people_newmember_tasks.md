@@ -11,18 +11,32 @@ assignees: ''
 
 ### Lead Name:
 ### Member Name:
-## Manager Name:
+### Manager Name:
 Finish these within next one week to ensure that the new member is onboarded properly:
 
-**You do not need to complete these following in the date listed, but you need to check on the new member and be prepared to answer their questions** 
+**You do not need to complete these following in the date listed, but you have to finish all the tasks within 7 days. If you cannot you must notify your onboarding lead!** 
 
 ## Lead's Tasks
 
 ### Day 0:
 
-- [ ] First email are about welcome to the club and information on Daniel's welcome webinar that is held weekly is sent out (Minh-Tu)
-- [ ] Daniel's Welcome Webinar 
-- [ ] Check if they were able to join Slack through Daniel's Invite 
+- [ ] Send the 1st POC welcome email which includes the following 
+  - [ ] Your partnered Techincal Sourcer's Calendly for the interview
+  - [ ] [Handbook Link](https://about.bitproject.org/) 
+  - [ ] Onboarding/Orientation information 
+ 
+ ## Techincal Sourcer's Tasks
+- [ ] Interview the new applicant
+
+
+**Toward the end of the interview invite them to the following**
+- [ ] GitHub. Assign them this onboarding checklist
+- [ ] [Slack](https://join.slack.com/t/bitdarlene/shared_invite/zt-9t88xlbb-DHBCQWOUZfu87P376dEEgQ) 
+- [ ] [Airtable](https://airtable.com/invite/l?inviteId=invXpOyNXqokFT7Sq&inviteToken=ebee2d1d51eb059de30fc03f4f55abb50dd3d44f1fda27cac6206b020e4e5da1
+- [ ] [Google Calendar](https://calendar.google.com/calendar?cid=dWNkYXZpcy5lZHVfMGhpZzcwNmdlMWRuZmpsMWVyc3V1YmFyaHNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
+- [ ] Tell them the position they got and who their manager is
+- [ ] Go over this checklist with them and make sure they know how to locate this issue and check the boxes off. Briefly walk through any applications that do not know well. **But always walk them through GitHub**
+
 
   **The rest of the tasks are the manager's responsibilities**  
 
@@ -35,9 +49,7 @@ Finish these within next one week to ensure that the new member is onboarded pro
   - [ ] Discuss what the People team does and what the new member's role might be
   - [ ] Talk about the Handbook 
   - [ ] Talk about the onboarding process, show them where they can access it 
-  - [ ] Tell them a brief overview of their Workflow Issue Case 
-  - [ ] Tell them where they can access the Webinars 
-- [ ] After first meeting, the second email that details everything should be sent after the 1:1 (invitation to Github and Airtable, Webinar links, Handbook, and Workflow Case Issue)
+  - [ ] Tell them a brief overview of their Workflow Issue Case.  
 - [ ] Make sure they complete the google form on the webinars 
 
 ### Day 3-5: 
@@ -52,48 +64,61 @@ Finish these within next one week to ensure that the new member is onboarded pro
   - [ ] Note the feedback that the new member gives 
   - [ ] Tell them the next steps and their next project!
   - [ ] Congratulate them on becoming a part of Bit!
+  - [ ] Close the issue once finished looking over the issue and update their status on the [Airtable](https://airtable.com/tbl3kCGuIhI2J750b/viwpLQBh2oe3nJ7Fb?blocks=hide)
 
-## Member's Tasks
+## New Member's Tasks
 
 ### Day 0:
-
-- [ ] Receive email about a meeting with Daniel through Zoom 
-- [ ] Have the welcome meeting with Daniel through Zoom 
-- [ ] Join our Slack
-  - [ ] Include in Profile
+Watch [Getting Started at Bit Project](https://youtu.be/-jj090TR3po)
+- [ ] Ask for access to Bit Project Google Calendar 
+- [ ] Watch Webinars 
+  - [ ] [Communication in a Remote Workspace](https://www.youtube.com/watch?v=2f9TkttynIk)
+  - [ ] [Feedback](https://youtu.be/UlvYinqLsdo)
+  - [ ] [GitHub](https://youtu.be/NNrP1QCF1JE)
+  - [ ] [Diversity and Inclusion](https://youtu.be/dIvSjM-1Phw)
+  - [ ] Complete the [Webinar Quiz](https://airtable.com/shr31V9xdVRxOffMA)
+- [ ] Join our [Slack workspace](https://join.slack.com/t/bitdarlene/shared_invite/zt-9t88xlbb-DHBCQWOUZfu87P376dEEgQ)
+- [ ] Include in Profile
     - Name
     - Profile Picture 
-    - In the description list out: School and team (People)
-  - [ ] Send a greeting message through the #NewMembers Channel 
+    - Fill out the description lists: Position, GitHub Username, school, etc
+  - [ ] Send a greeting message through the #Welcome Channel 
     - Name 
     - Postion
     - Major 
     - Year
     - Favorite Memory 
-  - [ ] Private DM Becca Tran (Manager of People) to set up a meeting 
+  - [ ] Private DM your manager to set up a meeting. Sign up to meet through looking at their Slack profile which includes their Calendly  
+- [ ] Complete live [Welcome Webinar](https://zoom.us/j/4639175564)
+
+
+  - Note that this will be hosted everyone Monday at 11 am Pacific Standard Time. Please move on to the next steps if this does not occur on the first day of receiving tasks.
+  - If you could not make it, here is a recorded [link](https://us02web.zoom.us/rec/share/3JMvcIj952BJboXuzB3OBLAmGK_daaa80CVP_fJcxUxsgT_ZLWk5A3LSnh9LzSSy) and the password is: 9N?T5@J7
+
+
+  - Note: We do expect everyone to come to the live Welcome Webinar
+- [ ] Fill out the directory [form](https://airtable.com/shrFZKfAcYcnunw20)
+*Note: Please fill out all the field in the form!
 
 ### Day 1-2:
 
-- [ ] Meeting with the Manager of People 
+- [ ] Meeting with the Manager 
+
+
+**If you are on the L&D team, @jasmine is your manager. Sourcing Team, @becca is your manager, Onboarding Team, @minh-tu nguyen is your manager**
   - [ ] Understand the overview of the onboarding procedure 
   - [ ] Breakdown of tasks and expectations for the first week 
   - [ ] Understand what People team does
-- [ ] Watch Webinars 
-  - [ ] Communication
-  - [ ] Team Feedback
-  - [ ] GitHub
 
 ### Day 3-5:
 
 - [ ] Finish the workflow issue case
-  - [ ] Write proposal on how to fix the issue and prepared to talk about with the Manager of People
-  - [ ] Email the proposal to rhtran@ucdavis.edu (Becca Tran)
-    - [ ] Set the 1:1 with Becca 
-- [ ] Sign up for Slack, Zoom, and Airtable (refer to the second email we sent)
-- [ ] Have access to Bit Project Google Calendar 
+  - [ ] Write proposal on how to fix the issue and prepared to talk about with the Manager
 
 ### Day 6-7 
 
 - [ ] Complete 1:1 with Manager 
   - [ ] Practice taking notes on Github during the interview 
-  - [ ] Please give your overview feedback and express what position you are interested within the People team!
+  - [ ] Please give your overview feedback 
+  
+ **Welcome to Bit Project!**
