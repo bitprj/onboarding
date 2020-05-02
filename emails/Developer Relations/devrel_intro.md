@@ -6,45 +6,15 @@ Thank you for your application and interest in Bit Project. We think you'll be a
 
 My name is [*onboarding lead*] and I will be guiding you through your onboarding process! I am here to ensure a smooth and streamlined process of fully integrating you into our organization. Feel free to ask me any questions or inform me of your concerns.
 
-The rest of the email consists of your beginning tasks to get you started!
+We would you to schedule an interview on Zoom with one of our members. During this interview, we will ask you questions about yourself, past experiences, interests, and skills. This will help us determine the best position for you in Bit Project.
 
-1. **Schedule your interview FIRST**
-- Interviewer: 
-   
-- Use this calendly to schedule a meeting: 
-   
-2. Create a GitHub account:
+Please use this Calendly link to schedule an interview: (link to sourcer's calendly)
 
-   - [github.com](http://github.com/)
+Your interviewer will send you another email with a link to the Zoom meeting.
 
-3. Complete the Form to be added to our Directory: 
+Please schedule your interview within <u>3 days</u> of receiving this email. If you have to cancel the meeting for any reason, please let us know 24 hours in advance.
 
-   - Form: https://airtable.com/shrFZKfAcYcnunw20
-
-4. Watch our Getting Started Webinar
-
-   - Link: https://youtu.be/-jj090TR3po
-
-5. Download Zoom:
-
-   - Zoom Website: https://zoom.us/
-
-   - Zoom Download: https://zoom.us/download
-
-6. Read Designated Pages
-
-   - Bit Project HandBook: [about.bitproject.org](http://about.bitproject.org/)
-
-   - DEVELOPERS TEAM:
-     - Navigate to the Developer Relations section and read through the Future Workshop Plan page
-
-7. Attend the Welcome Webinar 
-
-   - 11 AM on MONDAYS
-
-    - Zoom Link: https://zoom.us/j/4639175564
-
-We look forward to working with you! 
+Once again, I am here to help you throughout your whole onboarding process so do not hesitate to ask any questions! 
 
 Best,
 
