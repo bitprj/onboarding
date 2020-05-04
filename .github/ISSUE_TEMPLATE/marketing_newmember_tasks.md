@@ -108,8 +108,7 @@ _Finish these within next one week to ensure that the you are onboarded properly
 
 ### Day 1-2:
 
-- [ ] Sign up for Slack, Zoom, and [Airtable](https://airtable.com/tblRN2fngeYXUlGGp)
-- [ ] Ask for access to Bit Project Google Calendar 
+- [ ] Ask for access to Bit Project Google Calendar from Manager if you are not already added 
 - [ ] Watch Webinars 
   - [ ] [Communication in a Remote Workspace](https://www.youtube.com/watch?v=2f9TkttynIk)
   - [ ] [Feedback](https://youtu.be/UlvYinqLsdo)
@@ -130,4 +129,4 @@ _Finish these within next one week to ensure that the you are onboarded properly
   - [ ] Practice taking notes on Github during the 1:1 
   - [ ] Give onboarding feedback
 
- **Welcome to Bit Project!**
+**Welcome to Bit Project!**
