@@ -106,7 +106,7 @@ Watch [Getting Started at Bit Project](https://youtu.be/-jj090TR3po)
 
 ### Day 1-2:
 
-- [ ] Meeting with the Manager 
+- [ ] Attend to the first 1:1 with your Manager!
 
 
 **If you are on the L&D team, @jasmine is your manager. Sourcing Team, @becca is your manager, Onboarding Team, @minh-tu nguyen is your manager**
@@ -121,7 +121,7 @@ Watch [Getting Started at Bit Project](https://youtu.be/-jj090TR3po)
 
 ### Day 6-7 
 
-- [ ] Complete 1:1 with Manager 
+- [ ] Complete second 1:1 with Manager 
   - [ ] Practice taking notes on Github during the interview 
   - [ ] Please give your overview feedback 
   
