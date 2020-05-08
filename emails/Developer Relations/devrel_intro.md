@@ -2,17 +2,19 @@
 
 Hello [Name]! 
 
-Thank you for your application and interest in Bit Project. We think you'll be a great fit for our team! There are a couple of more steps that you we need you to complete before you become a core member. 
+Thank you for your application and interest in Bit Project.  My name is [onboarding lead] and I am the [position].
 
-My name is [*onboarding lead*] and I will be guiding you through your onboarding process! I am here to ensure a smooth and streamlined process of fully integrating you into our organization. Feel free to ask me any questions or inform me of your concerns.
+We would like for you to complete this case/blog prompt before getting an invitation to your interview! Your response will help us assess your skills and personality! You will receive prompts/blogs based on what you applied for. If you applied with multiple positions please only choose one prompt/blog to write about, this will let us know what position you are more interested in.
 
-We would you to schedule an interview on Zoom with one of our members. During this interview, we will ask you questions about yourself, past experiences, interests, and skills. This will help us determine the best position for you in Bit Project.
+Here is a link to a more detailed explanation about your task and a list of topics you can write about: https://hq.bitproject.org/how-to-write-a-technical-blog/
 
-Please use this Calendly link to schedule an interview: (link to sourcer's calendly)
+Here is another short video about blogs: https://youtu.be/Y2e_eh2zcls
 
-Your interviewer will send you another email with a link to the Zoom meeting.
+Please complete your blog within 7 days of this email being sent. We will also be inviting you to our Bit Project Slack channel #devrel-entryblog as a guest for 7 days. In Slack, you will be able to ask any questions you have about your task. Please check your email to accept the invite to our Slack channel.
 
-Please schedule your interview within <u>3 days</u> of receiving this email. If you have to cancel the meeting for any reason, please let us know 24 hours in advance.
+Once you have completed your blog, you can submit it here:
+https://airtable.com/shrJRjlnnUpmxYN80
+
 
 Once again, I am here to help you throughout your whole onboarding process so do not hesitate to ask any questions! 
 
