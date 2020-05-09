@@ -2,53 +2,22 @@
 
 Hello [Name]! 
 
-Welcome to Bit Project! Thank you for your application and interest in Bit Project. My name is [onboarding lead] and I will be guiding you through your onboarding process! I am here to ensure a smooth and streamlined process of fully integrating you into our organization. Feel free to ask me any questions or inform me of your concerns.
+Thank you for your application and interest in Bit Project.  My name is [onboarding lead] and I am the [position].
 
-The rest of the email consists of your beginning tasks to get you started!
+We would like for you to complete this case prompt before getting an invitation to your interview! Your response will help us assess your skills and personality! You will receive a prompt based on what you applied for. If you applied with multiple positions **please only choose one prompt/blog to write** about, this will let us know what position you are more interested in.
 
-1. **Schedule your interview**
+Here is a link to a more detailed explanation about your task and a list of topics you can write about: [pdf to specific positions prompt here]
 
-  - Interviewer: 
+Please complete this case prompt within **7 days of this email being sent.** We will also be inviting you to our Bit Project Slack channel #people-entrycaseprompt as a guest for 7 days. (If you have applied to multiple positions, we may add you to other channels in addition to the people-entrycaseprompt channel so that you can ask questions about those positions as well). In Slack, you will be able to ask any questions you have about your task. Please check your email to accept the invite to our Slack channel.
 
-  - Use this calendly to schedule a meeting: 
+Once you have completed your case prompt, you can submit and schedule your interview here:
+https://airtable.com/shrJRjlnnUpmxYN80
 
-2. Create a GitHub account:
 
-  - [github.com](http://github.com/)
-
-3. Complete the Form to be added to our Directory: 
-
-  - Form: https://airtable.com/shrFZKfAcYcnunw20
-
-4. Watch our Getting Started Webinar
-
-  - Link: https://youtu.be/-jj090TR3po
-
-5. Download Zoom:
-
-  - Zoom Website: https://zoom.us/
-
-  - Zoom Download: https://zoom.us/download
-
-6. Read Designated Pages
-
-  - Bit Project HandBook: [about.bitproject.org](http://about.bitproject.org/)
-
-  - PEOPLE TEAM: 
-
-    - Navigate to People section and read through Joining the Team page. 
-
-7. Attend the Welcome Webinar 
-
-  - 11 AM on MONDAYS
-  - Zoom Link: https://zoom.us/j/4639175564
-
-Please follow all steps. During the interview, your interviewer will ask you questions based off of the position you applied for and your previous experience. You will be invited to join our slack and informed if your next tasks during your interview. Once again, I am here to help you throughout your whole onboarding process so do not hesitate to ask any questions! Contact me at [*onborading email*] or on slack. 
-
-We look forward to working with you! 
+I am here to help you throughout your whole onboarding process so do not hesitate to ask any questions on Slack! 
 
 Best,
 
-[onboarding lead] 
+[onboarding lead]
 
-[position] | Bit Project UC Davis 2020
+[position]| Bit Project UC Davis 2020
