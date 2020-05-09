@@ -37,6 +37,7 @@ Finish these within next one week to ensure that the new member is onboarded pro
 - [ ] [Google Calendar](https://calendar.google.com/calendar?cid=dWNkYXZpcy5lZHVfMGhpZzcwNmdlMWRuZmpsMWVyc3V1YmFyaHNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
 - [ ] Tell them the position they got and who their manager is
 - [ ] Go over this checklist with them and make sure they know how to locate this issue and check the boxes off. Briefly walk through any applications that do not know well. **But always walk them through GitHub**
+- [ ] invite to edu flow 
 
 ## Manager's Tasks
 
@@ -61,7 +62,7 @@ Finish these within next one week to ensure that the new member is onboarded pro
 ### Day 6-7: 
 
 - [ ] Managers have the follow-up 1:1 
-  - [ ] Discuss the Workflow Case Issue 
+  - [ ] Discuss the Marketing Issue 
   - [ ] Note the feedback that the new member gives 
   - [ ] Tell them the next steps and their next project!
   - [ ] Congratulate them on becoming a part of Bit!
@@ -109,7 +110,7 @@ _Finish these within next one week to ensure that the you are onboarded properly
 ### Day 1-2:
 
 - [ ] Ask for access to Bit Project Google Calendar from Manager if you are not already added 
-- [ ] Watch Webinars 
+- [ ] Watch Webinars on edu flow 
   - [ ] [Communication in a Remote Workspace](https://www.youtube.com/watch?v=2f9TkttynIk)
   - [ ] [Feedback](https://youtu.be/UlvYinqLsdo)
   - [ ] [GitHub](https://youtu.be/NNrP1QCF1JE)
@@ -128,5 +129,8 @@ _Finish these within next one week to ensure that the you are onboarded properly
 - [ ] Complete second  1:1 with Manager 
   - [ ] Practice taking notes on Github during the 1:1 
   - [ ] Give onboarding feedback
+  
+  ### Day 6-7 
+- [ ] Complete edu flow course
 
 **Welcome to Bit Project!**
