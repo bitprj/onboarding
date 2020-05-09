@@ -17,6 +17,7 @@ assignees: ''
 ## Content Developer Tasks:
 
 ### Week 0:
+- [ ] Get started on edu flow course and complete it in 7 days 
 - [ ] Watch [Getting Started at Bit Project](https://youtu.be/-jj090TR3po)
 - [ ] Ask for access to Bit Project Google Calendar 
 - [ ] Watch Webinars 
