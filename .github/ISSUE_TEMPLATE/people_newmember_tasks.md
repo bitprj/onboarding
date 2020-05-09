@@ -39,6 +39,7 @@ Finish these within next one week to ensure that the new member is onboarded pro
 - [ ] [Google Calendar](https://calendar.google.com/calendar?cid=dWNkYXZpcy5lZHVfMGhpZzcwNmdlMWRuZmpsMWVyc3V1YmFyaHNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
 - [ ] Tell them the position they got and who their manager is
 - [ ] Go over this checklist with them and make sure they know how to locate this issue and check the boxes off. Briefly walk through any applications that do not know well. **But always walk them through GitHub**
+- [ ] Add to edu course 
 
 
  ## Manager's Tasks
@@ -74,6 +75,7 @@ Finish these within next one week to ensure that the new member is onboarded pro
 
 ### Day 0:
 Watch [Getting Started at Bit Project](https://youtu.be/-jj090TR3po)
+- [ ] Start on edu flow course 
 - [ ] Ask for access to Bit Project Google Calendar 
 - [ ] Watch Webinars 
   - [ ] [Communication in a Remote Workspace](https://www.youtube.com/watch?v=2f9TkttynIk)
