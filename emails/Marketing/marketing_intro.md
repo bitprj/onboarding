@@ -1,55 +1,24 @@
-#Marketing
+# Marketing
 
 Hello [Name]! 
 
-Welcome to Bit Project! Thank you for your application and interest in Bit Project. My name is [Onboarding Lead] and I will be guiding you through your onboarding process! I am here to ensure a smooth and streamlined process of fully integrating you into our organization. Feel free to ask me any questions or inform me of your concerns.
+Thank you for your application and interest in Bit Project.  My name is [onboarding lead] and I am the [position].
 
-The rest of the email consists of your beginning tasks to get you started!
+We would like for you to complete this blog/case prompt before getting an invitation to your interview! Your response will help us assess your skills and personality! You will receive a prompt based on what you applied for. If you applied with multiple positions **please only choose one prompt to write** about, this will let us know what position you are more interested in. There will be an attached pdf at the bottom of this email that contains the prompt.
 
-1. **Schedule your interview**
+## [MAKE SURE TO ATTACH THE CORRECT PROMPT]
 
-  - Interviewer: 
+Please complete this case/blog prompt within **7 days of this email being sent.** We will also be inviting you to our Bit Project Slack channel #marketing-entryblog as a guest for 7 days. (If you have applied to multiple positions, we may add you to other channels in addition to the marketing-entrycaseprompt channel so that you can ask questions about those positions as well). In Slack, you will be able to ask any questions you have about your task. Please check your email to accept the invite to our Slack channel.
 
-  - Use this calendly to schedule a meeting: 
+Once you have completed your case prompt, you can submit and schedule your interview here:
+https://airtable.com/shrJRjlnnUpmxYN80
 
-2. Create a GitHub account:
 
-  - [github.com](http://github.com/)
-
-3. Complete the Form to be added to our Directory: 
-
-  - Form: https://airtable.com/shrFZKfAcYcnunw20
-
-4. Watch our Getting Started Webinar
-
-  - Link: https://youtu.be/-jj090TR3po
-
-5. Download Zoom:
-
-  - Zoom Website: https://zoom.us/
-
-  - Zoom Download: https://zoom.us/download
-
-6. Read Designated Pages
-
-  - Bit Project HandBook: [about.bitproject.org](http://about.bitproject.org/)
-
-  - MARKETING TEAM: 
-
-    - Navigate to Growth Marketing section and read through Joining the Team page and the Airtable & HubSpot page (found under weekly duties)
-    - This section of the handbook is subject to change. 
-
-7. Attend the Welcome Webinar 
-
-  - 11 AM on MONDAYS
-  - Zoom Link: https://zoom.us/j/4639175564
-
-Please follow all steps. During the interview, your interviewer will ask you questions based off of the position you applied for and your previous experience. You will be invited to join our slack and informed if your next tasks during your interview. Once again, I am here to help you throughout your whole onboarding process so do not hesitate to ask any questions! Contact me at [*onborading email*] or on slack. 
-
-We look forward to working with you! 
+I am here to help you throughout your whole onboarding process so do not hesitate to ask any questions on Slack! 
 
 Best,
 
-[Onboarding Lead]
+[onboarding lead]
 
-[Position] | Bit Project UC Davis 2020
+[position]| Bit Project UC Davis 2020
+
