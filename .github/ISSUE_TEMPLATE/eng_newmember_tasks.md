@@ -46,7 +46,7 @@ assignees: ''
 - [ ] Schedule Team Meeting with Manager. The meeting must be within the next 2 days.
 
 ### Day 2-3: 
-- [ ] Meeting with Manager:
+- [ ] Meeting with Head of Engineering:
    * Breakdown of the Week (expectations)
   * Bit Project Introduction
   * Introduction to the team
@@ -59,7 +59,7 @@ assignees: ''
 
 ### Day 4-5:
 
-- [ ] Complete 1:1 with Manager of Engineering  
+- [ ] Complete 1:1 with Head of Engineering  
   - [ ] Understand the overview of the onboarding procedure 
   - [ ] Breakdown of tasks and expectations for the first week 
   - [ ] Understand what Engineering team does
