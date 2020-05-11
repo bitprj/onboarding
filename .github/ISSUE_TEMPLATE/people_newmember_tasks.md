@@ -50,32 +50,25 @@ Finish these within next one week to ensure that the new member is onboarded pro
 
 ### Day 2:
 
-- [ ] Manager meets with the new members 
+- [ ] Manager meets with the new member 1:1 
   - [ ] Discuss what the People team does and what the new member's role might be
-  - [ ] Talk about the Handbook 
-  - [ ] Talk about the onboarding process, show them where they can access it 
-  - [ ] Tell them a brief overview of their Workflow Issue Case.  
-- [ ] Make sure they complete the google form on the webinars 
-
-### Day 3-5: 
-
-- [ ] Be there to answer questions for them
-- [ ] Check-in with them on their progress on the Webinars and Workflow Issue Case 
-
-### Day 6-7: 
-
-- [ ] Managers have the follow-up 1:1 
-  - [ ] Discuss the Workflow Case Issue 
-  - [ ] Note the feedback that the new member gives 
+  - [ ] Discuss about their progress on onboarding 
   - [ ] Tell them the next steps and their next project!
   - [ ] Congratulate them on becoming a part of Bit!
   - [ ] Close the issue once finished looking over the issue and update their status on the [Airtable](https://airtable.com/tbl3kCGuIhI2J750b/viwpLQBh2oe3nJ7Fb?blocks=hide)
 
+
+### Day 3-5: 
+
+- [ ] Be there to answer questions for them
+
+
+
 ## New Member's Tasks
 
-### Day 0:
+### Day 0-3:
 Watch [Getting Started at Bit Project](https://youtu.be/-jj090TR3po)
-- [ ] Start on edu flow course 
+- [ ] Start on edu flow course (ask your lead for the invite link/code)
 - [ ] Ask for access to Bit Project Google Calendar 
 - [ ] Watch Webinars 
   - [ ] [Communication in a Remote Workspace](https://www.youtube.com/watch?v=2f9TkttynIk)
@@ -94,7 +87,11 @@ Watch [Getting Started at Bit Project](https://youtu.be/-jj090TR3po)
     - Major 
     - Year
     - Favorite Memory 
-  - [ ] Private DM your manager to set up a meeting. Sign up to meet through looking at their Slack profile which includes their Calendly  
+- [ ] Join all our workspaces if you have not already:
+  - [ ] [Slack](https://join.slack.com/t/bitdarlene/shared_invite/zt-9t88xlbb-DHBCQWOUZfu87P376dEEgQ) 
+  - [ ] [Airtable](https://airtable.com/invite/l?inviteId=invXpOyNXqokFT7Sq&inviteToken=ebee2d1d51eb059de30fc03f4f55abb50dd3d44f1fda27cac6206b020e4e5da1)
+  - [ ] [Google Calendar](https://calendar.google.com/calendar?cid=dWNkYXZpcy5lZHVfMGhpZzcwNmdlMWRuZmpsMWVyc3V1YmFyaHNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
+  
 - [ ] Complete live [Welcome Webinar](https://zoom.us/j/4639175564)
 
 
@@ -106,25 +103,14 @@ Watch [Getting Started at Bit Project](https://youtu.be/-jj090TR3po)
 - [ ] Fill out the directory [form](https://airtable.com/shrFZKfAcYcnunw20)
 *Note: Please fill out all the field in the form!
 
-### Day 1-2:
+### Day 3-7:
 
-- [ ] Attend to the first 1:1 with your Manager!
+- [ ] Attend to the first 1:1 with your Manager! **Note:Please schedule for a 1:1 with your manager after you completed the eduflow course!**
 
 
 **If you are on the L&D team, @jasmine is your manager. Sourcing Team, @becca is your manager, Onboarding Team, @minh-tu nguyen is your manager**
-  - [ ] Understand the overview of the onboarding procedure 
   - [ ] Breakdown of tasks and expectations for the first week 
   - [ ] Understand what People team does
-
-### Day 3-5:
-
-- [ ] Finish the workflow issue case
-  - [ ] Write proposal on how to fix the issue and prepared to talk about with the Manager
-
-### Day 6-7 
-
-- [ ] Complete second 1:1 with Manager 
-  - [ ] Practice taking notes on Github during the interview 
-  - [ ] Please give your overview feedback 
+  - [ ] What your new tasks are as a core member!
   
  **Welcome to Bit Project!**
