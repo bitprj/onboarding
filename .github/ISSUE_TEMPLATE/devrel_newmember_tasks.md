@@ -19,4 +19,14 @@ assignees: ''
 ### Week 0:
 - [ ] Get started on edu flow course and complete it in 7 days 
 *Link to eduflow:
-- [ ] Ask for access to Bit Project Google Calendar
+ 
+  - [ ] Send a greeting message through the #welcome Channel 
+    - Name 
+    - Position
+    - Major 
+    - Year
+    - Spirit Animal
+ - [ ] Complete live [Welcome Webinar](https://zoom.us/j/4639175564)
+  - Note that this will be hosted everyone Monday at 11 am Pacific Standard Time. Please move on to the next steps if this does not occur on the first day of receiving tasks.
+  - If you could not make it, here is a recorded [link](https://us02web.zoom.us/rec/share/3JMvcIj952BJboXuzB3OBLAmGK_daaa80CVP_fJcxUxsgT_ZLWk5A3LSnh9LzSSy) and the password is: 9N?T5@J7
+  - Note: We do expect everyone to come to the live Welcome Webinar
