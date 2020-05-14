@@ -18,30 +18,5 @@ assignees: ''
 
 ### Week 0:
 - [ ] Get started on edu flow course and complete it in 7 days 
-- [ ] Watch [Getting Started at Bit Project](https://youtu.be/-jj090TR3po)
-- [ ] Ask for access to Bit Project Google Calendar 
-- [ ] Watch Webinars 
-  - [ ] [Communication in a Remote Workspace](https://www.youtube.com/watch?v=2f9TkttynIk)
-  - [ ] [Feedback](https://youtu.be/UlvYinqLsdo)
-  - [ ] [GitHub](https://youtu.be/NNrP1QCF1JE)
-  - [ ] [Diversity and Inclusion](https://youtu.be/dIvSjM-1Phw)
-  - [ ] Complete the [Webinar Quiz](https://airtable.com/shr31V9xdVRxOffMA)
-- [ ] Join our [Slack workspace](https://join.slack.com/t/bitdarlene/shared_invite/zt-9t88xlbb-DHBCQWOUZfu87P376dEEgQ)
-- [ ] Complete Welcome Webinar (link will be provided)
-*Note that this will be hosted everyone Monday at 11 am Pacific Standard Time. Please move on to the next steps if this does not occur on the first day of receiving tasks. If you cannot make it, you can watch it [here](https://us02web.zoom.us/rec/share/3JMvcIj952BJboXuzB3OBLAmGK_daaa80CVP_fJcxUxsgT_ZLWk5A3LSnh9LzSSy) 
-*Password: 9N?T5@J7
-- [ ] Attend Dev Rel Welcome Webinar with Kevin or watch the recording of the Webinar
-*Note this will usually be held right after the general Welcome Webinar
-- [ ] Form duo team in the #form-duos Slack channel and pick a topic you are both interested in working on together. Make your duo official [here](https://airtable.com/shruXimvJ7sjubAId)
-*List of Topics: https://airtable.com/shr12uFGnpHyIM6bU/tbl0uNxZ0NmaB3OmH?blocks=hide 
-
-- [ ] Meeting with Manager(after submitting the duo form above, your manager should contact you):
-   * Breakdown of the Week (expectations)
-  * Bit Project Introduction
-  * Introduction to the team
-      * How your workshop fits into the bigger picture
-  * Discuss / Confirm Choice Topic & 3 or 5 week process
-  * Discuss / Confirm Positions
-  * Discuss / Confirm Deadlines
-
--[ ] Move on to Week 1 Procedures
+*Link to eduflow:
+- [ ] Ask for access to Bit Project Google Calendar
