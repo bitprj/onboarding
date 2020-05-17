@@ -18,7 +18,7 @@ assignees: ''
 
 ### Week 0:
 - [ ] Get started on edu flow course and complete it in 7 days 
-*Link to eduflow:
+*Link to eduflow: https://app.eduflow.com/join/BFBUG2
  
   - [ ] Send a greeting message through the #welcome Channel 
     - Name 
