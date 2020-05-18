@@ -10,7 +10,7 @@ Here is a link to a more detailed explanation about your task and a list of topi
 
 Here is another short video about blogs: https://youtu.be/Y2e_eh2zcls
 
-Please complete your blog within **7 days of this email being sent.** We will also be inviting you to our Bit Project Slack channel #devrel-entryblog as a guest for 7 days. (If you have applied to multiple positions, we may add you to other channels in addition to the devrel channel so that you can ask questions about those positions as well). In Slack, you will be able to ask any questions you have about your task. Please check your email to accept the invite to our Slack channel.
+Please complete your blog within **7 days of this email being sent.** We will also be inviting you to our Bit Project Slack channel #entrychannel as a guest for 7 days. In Slack, you will be able to ask any questions you have about your task. Please check your email to accept the invite to our Slack channel.
 
 Once you have completed your blog, you can submit and schedule your interview here:
 https://airtable.com/shrJRjlnnUpmxYN80
