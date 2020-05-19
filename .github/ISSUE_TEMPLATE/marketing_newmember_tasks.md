@@ -13,31 +13,7 @@ assignees: ''
 ### Member Name: @[username]
 ### Manager Name: @[username]
 
-## Lead's Tasks
-
-Finish these within next one week to ensure that the new member is onboarded properly:
-
 **You do not need to complete these following in the date listed, but you have to finish all the tasks within 7 days. If you cannot you must notify your onboarding lead!** 
-
-### Day 0:
-
-- [ ] Send the 1st POC welcome email
-### Day 1-7: 
-- [ ] Answer any questions the new members might have
-- [ ] Check in with the new member every other day to make sure they are completing their task on time 
-
-## Techincal Sourcer's Tasks
-- [ ] Interview the new applicant
-
-
-**Toward the end of the interview invite them to the following**
-- [ ] GitHub. Assign them this onboarding checklist
-- [ ] [Slack](https://join.slack.com/t/bitdarlene/shared_invite/zt-9t88xlbb-DHBCQWOUZfu87P376dEEgQ) 
-- [ ] [Airtable](https://airtable.com/invite/l?inviteId=invXpOyNXqokFT7Sq&inviteToken=ebee2d1d51eb059de30fc03f4f55abb50dd3d44f1fda27cac6206b020e4e5da1)
-- [ ] [Google Calendar](https://calendar.google.com/calendar?cid=dWNkYXZpcy5lZHVfMGhpZzcwNmdlMWRuZmpsMWVyc3V1YmFyaHNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
-- [ ] Tell them the position they got and who their manager is
-- [ ] Go over this checklist with them and make sure they know how to locate this issue and check the boxes off. Briefly walk through any applications that do not know well. **But always walk them through GitHub**
-- [ ] invite to edu flow 
 
 ## Manager's Tasks
 
