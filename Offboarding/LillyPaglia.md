@@ -1,26 +1,26 @@
 * The purpose of this meeting is to gather some general feedbacks about you experience within BitProject
 - Do you want your name to be included in the offboarding feedback?
-  - 
+  - yes
 - Which department are you part of?
-   - 
+   - design
 - Why have you decided to leave BitProject?
-   - 
+   - have other work and prject for Summer. 
 - How was your experience with the organization? Could you describe specific positives and negatives that come to mind?
-   - 
+   - positive: a lot of project were really fun and I learned a lot. Had experience to design for different audience. Negative: deadline were really fast, things were not giving enough time to complete 
 - Could you describe the culture of the Bit Project from your perspective?
-   - 
+   - thought it was a big club, seems like there are a lot people I never knew before and didn't get a chance to know them. A lot of the work were did remotely. 
 - Was it easy to reach out for help and to contact your manager? Were you comfortable with doing so? 
-   - 
+   - yes 
 - What suggestions do you have for us? How could we have improved your experience?
-   - 
+   - having be able to organize the certain stuff of the month, instead of have project due in 3 days. 
 
 - Did you feel equipped to do the work assigned in your department?
-  - 
+  - yes
 - Was it difficult to use the applications?
-  - 
+  - Slack was easy, Github is kind of confused
 - Was there anything that was unclear with your goals and objectives? 
-  - 
+  - Some info of the project were unclear while assign to work.
 - Do you have any questions or concerns?
-  - 
+  - no
 - Thank you for all of the hard work you did for Bit Project as without you we would never progress forward. You will now be removed from all applications and will no longer be part of the organization. If you wish to rejoin, you must reapply through the website: bitproject.org/join. 
 - That's all for us today! Thank you for your time and I wish you the best luck in the future!
