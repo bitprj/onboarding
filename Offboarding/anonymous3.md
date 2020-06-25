@@ -1,0 +1,29 @@
+* The purpose of this meeting is to gather some general feedbacks about you experience within BitProject
+- Do you want your name to be included in the offboarding feedback?
+  - no
+- Which department are you part of?
+   - marketing
+- Why have you decided to leave BitProject?
+   - The position I am having right now is not the position I initially wanted, didn't see much value with what I want my job to be in the future.
+   - There was lack of communication between members. A lot of work flow changes brought up the issue that wondn't clear with my role and my plan.
+- How was your experience with the organization? Could you describe specific positives and negatives that come to mind?
+   - Definitely gained valuable skills in technical writing, and CS skill. Social experience was not the greatest since there were lack of communication. 
+- Could you describe the culture of the Bit Project from your perspective?
+   - positives: types of work we are doing is quite advanced as a student organization, we have culture of being productive. 
+   - negatives: A lot of time consuming, sometimes spend whole day just wirking on BitProject stuff.
+- Was it easy to reach out for help and to contact your manager? Were you comfortable with doing so? 
+   - I was unclear with who to contact for the first quarter. It was hard to ask for help. President changes his mind a lot, and difficult to reach out until the time he changes his mind. President tends to not realize alternative ideas, and it is hard to actually approach.
+- What suggestions do you have for us? How could we have improved your experience?
+   - Definitely make sure that we are not only transparent to public, also in our own organization. Since there were a lot of lack of communication. If you want to rearrange the roles of someone, you need to make sure you provide an explanation including all party involved. Everyone needs to be in an agreement. 
+   - If there is any worflow changes, make sure to have enough time to test it. Can't be 5 or 6 workflow changes in a quarter. workflow changes were changed very quick and there is no time to adjust for people. 
+   - There need to be a lot of trust with. If assigned work to someone, there need to be some trust with that person. Make it clear with here is what you do with different cases happening.
+- Did you feel equipped to do the work assigned in your department?
+  - yes. 
+- Was it difficult to use the applications?
+  - At first, Github was definitely hard, later it was fine. 
+- Was there anything that was unclear with your goals and objectives? 
+  - Addressed as aboved. 
+- Do you have any questions or concerns?
+  - concern with the how prganization would proceeding. A lot of old members are leaving need to brought out to attention.
+- Thank you for all of the hard work you did for Bit Project as without you we would never progress forward. You will now be removed from all applications and will no longer be part of the organization. If you wish to rejoin, you must reapply through the website: bitproject.org/join. 
+- That's all for us today! Thank you for your time and I wish you the best luck in the future!
