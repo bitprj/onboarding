@@ -4,7 +4,7 @@
 - Which department are you part of?
    - marketing
 - Why have you decided to leave BitProject?
-   - some confusing about application process, got a different role.
+   - some confusing about application process, applied for a role but got a different role.
 - How was your experience with the organization? Could you describe specific positives and negatives that come to mind?
    - positive: everyine was very open and helpful.
    - negative: application process changed in the middle, it was confusing for me.
