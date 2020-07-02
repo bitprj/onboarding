@@ -1,25 +1,26 @@
 * The purpose of this meeting is to gather some general feedbacks about you experience within BitProject
 - Do you want your name to be included in the offboarding feedback?
-  - 
+  - no
 - Which department are you part of?
-   - 
+   - people
 - Why have you decided to leave BitProject?
-   - 
+   - I feel like I really like the work that I was doing, but it was very high pressure. they push me to do the workat soon as possible. I used a lot of my time in doing the work but they just scrapped it. 
 - How was your experience with the organization? Could you describe specific positives and negatives that come to mind?
-   - 
+   - Positive: I really like my director. 
+   - Negative: I hope that we could be more decisive. The president decide what we do but we can't decide by ourselves.
 - Could you describe the culture of the Bit Project from your perspective?
-   - 
+   - It was the one the worst culture I have ever experienced. Shreya and Daniel make it not fun, they need to work on how to be leaders. 
 - Was it easy to reach out for help and to contact your manager? Were you comfortable with doing so? 
-   - 
+   - yes, yes.
 - What suggestions do you have for us? How could we have improved your experience?
-   - 
+   - Sshould care about the members, not just force people to do works
 - Did you feel equipped to do the work assigned in your department?
-   - 
+   - yes
 - Was it difficult to use the applications?
-  - 
+  - no
 - Was there anything that was unclear with your goals and objectives? 
-  - 
+  - yes, bassically everything. Daniel and shreya never clear what they want us to be done
 - Do you have any questions or concerns?
-  - 
+  - no
 - Thank you for all of the hard work you did for Bit Project as without you we would never progress forward. You will now be removed from all applications and will no longer be part of the organization. If you wish to rejoin, you must reapply through the website: bitproject.org/join. 
 - That's all for us today! Thank you for your time and I wish you the best luck in the future!
